@@ -12,13 +12,13 @@ variables:
   azureSubscription: 'YourServiceConnectionName'
   
   # Web app name
-  webAppName: 'YourLinuxApp'
+  webAppName: 'Flatris-LAB-app'
   
   # Resource group
-  resourceGroupName: 'YourRG'
+  resourceGroupName: 'Flatris-LAB-rg'
  
   # Environment name
-  environmentName: 'YourLinuxApp'
+  environmentName: 'Flatris-LAB-app'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
